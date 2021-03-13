@@ -1,0 +1,6 @@
+/Users/fede/Documents/GitHub/CAI-Repaso-4/Repaso4/Repaso4/bin/Debug/Repaso4.exe
+/Users/fede/Documents/GitHub/CAI-Repaso-4/Repaso4/Repaso4/bin/Debug/Repaso4.pdb
+/Users/fede/Documents/GitHub/CAI-Repaso-4/Repaso4/Repaso4/obj/Debug/Repaso4.csprojAssemblyReference.cache
+/Users/fede/Documents/GitHub/CAI-Repaso-4/Repaso4/Repaso4/obj/Debug/Repaso4.csproj.CoreCompileInputs.cache
+/Users/fede/Documents/GitHub/CAI-Repaso-4/Repaso4/Repaso4/obj/Debug/Repaso4.exe
+/Users/fede/Documents/GitHub/CAI-Repaso-4/Repaso4/Repaso4/obj/Debug/Repaso4.pdb
